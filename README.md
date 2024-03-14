@@ -1,1 +1,1 @@
-Hi my name is Minh Long, I am currently 14 years old. I am really curious and passionate about my tasks. My coding goal is to be a software engineer and wanting to help other people with work. # hello-world 
+# hello-world
